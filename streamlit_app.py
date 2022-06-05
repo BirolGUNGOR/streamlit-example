@@ -5,4 +5,4 @@ import pandas as pd
 import streamlit as st
 
 st.title("Burası benim sayfam")
-st.write(random.choice{[1,2,3,4]}
+st.write(random.choice{[1,2,3,4]})
